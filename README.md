@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/a50b05fb-7026-42c8-b7bb-61fa30b08ae6
+View your app in AI Studio: https://kabaadsetu-kabadiwala-ai-circular-eco-marketplace.ai.studio
 
 ## Run Locally
 
