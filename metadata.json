@@ -1,0 +1,11 @@
+{
+  "name": "KabaadSetu — Kabadiwala AI & Circular Eco-Marketplace",
+  "description": "Direct informal collector to authorized recycler ecosystem with ScrapSense agentic AI price analysis, 3D product digital twins, CreateOwn DIY recrafting studio with video tutorials, and transparent handover ledger.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
