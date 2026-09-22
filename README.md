@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://yourstory.com/2015/06/kabadiwalla-connect" />
+<img width="1200" height="475" alt="GHBanner" src="[https://yourstory.com/2015/06/kabadiwalla-connect](https://images.yourstory.com/cs/wordpress/2015/06/yourstory-kabadiwalla-connect.jpg?mode=crop&crop=faces&ar=2%3A1&format=auto&w=1920&q=75)" />
 </div>
 
 # Run and deploy your AI Studio app
